@@ -1,0 +1,66 @@
+categories:
+  - name: Fundamental papers
+    description: Core papers behind modern deep learning — architectures, attention, and generative models.
+    papers:
+      - title: "ImageNet Classification with Deep Convolutional Neural Networks"
+        short: AlexNet
+        authors: Krizhevsky, Sutskever, and Hinton
+        venue: NeurIPS
+        year: 2012
+        url: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+
+      - title: "Deep Residual Learning for Image Recognition"
+        short: ResNet
+        authors: He, Zhang, Ren, and Sun
+        venue: CVPR
+        year: 2016
+        url: https://arxiv.org/abs/1512.03385
+
+      - title: "Wide Residual Networks"
+        short: WideResNet
+        authors: Zagoruyko and Komodakis
+        venue: BMVC
+        year: 2016
+        url: https://arxiv.org/abs/1605.07146
+
+      - title: "Attention Is All You Need"
+        short: Transformer
+        authors: Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin
+        venue: NeurIPS
+        year: 2017
+        url: https://arxiv.org/abs/1706.03762
+
+      - title: "Denoising Diffusion Probabilistic Models"
+        short: DDPM
+        authors: Ho, Jain, and Abbeel
+        venue: NeurIPS
+        year: 2020
+        url: https://arxiv.org/abs/2006.11239
+
+      - title: "High-Resolution Image Synthesis with Latent Diffusion Models"
+        short: LDM
+        authors: Rombach, Blattmann, Lorenz, Esser, and Ommer
+        venue: CVPR
+        year: 2022
+        url: https://arxiv.org/abs/2112.10752
+
+      - title: "Batch Normalization"
+        short: BatchNorm
+        authors: Ioffe and Szegedy
+        venue: ICML
+        year: 2015
+        url: https://arxiv.org/abs/1502.03167
+
+      - title: "Generative Adversarial Nets"
+        short: GAN
+        authors: Goodfellow, Pouget-Abadie, Mirza, Xu, Warde-Farley, Ozair, Courville, and Bengio
+        venue: NeurIPS
+        year: 2014
+        url: https://arxiv.org/abs/1406.2661
+
+      - title: "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+        short: U-Net
+        authors: Ronneberger, Fischer, and Brox
+        venue: MICCAI
+        year: 2015
+        url: https://arxiv.org/abs/1505.04597

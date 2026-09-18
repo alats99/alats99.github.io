@@ -1,0 +1,99 @@
+cv:
+  name: Anastasios Latsoudis
+  label: MSc Artificial Intelligence
+  email: lats.tas@gmail.com
+  location: Paris, France
+  image: ""
+  summary: MSc student in Artificial Intelligence at the University of Amsterdam. Research intern in the VISTA team at LIX, École Polytechnique.
+
+  social_networks:
+    - network: GitHub
+      username: alats99
+    - network: LinkedIn
+      username: anastasioslatsoudis
+    - network: Google Scholar
+      username: 4sP7KlUAAAAJ
+
+  address:
+    street: ""
+    city: Paris
+    region: Île-de-France
+    postalCode: ""
+    countryCode: FR
+
+  sections:
+    Education:
+      - institution: University of Amsterdam
+        location: Ams, Netherlands
+        url: https://www.uva.nl/
+        area: Artificial Intelligence
+        studyType: MSc
+        start_date: 2024
+        end_date: 2026
+        score: ""
+        courses: "Machine Learning, Deep Learning, Computer Vision, Information Retrieval, Reinforcement Learning"
+        highlights:
+          - Thesis with Prof. Efstratios Gavves and Riccardo Valperga
+
+      - institution: National Technical University of Athens
+        location: Athens, Greece
+        url: https://www.ntua.gr/en/
+        area: Mechanical Engineering
+        studyType: Diploma
+        start_date: 2017
+        end_date: 2022
+        score: ""
+        courses: ""
+        highlights: []
+
+    Experience:
+      - company: VISTA, LIX, École Polytechnique
+        location: Paris, France
+        url: https://www.lix.polytechnique.fr/vista/members/index.html
+        title: Research Intern
+        start_date: 2026-09
+        end_date: present
+        description: Research internship with Prof. Vicky Kalogeiton on multimodal generative AI and computer vision.
+        highlights:
+          - Multimodal generative models
+          - Computer vision
+
+      - company: Damen Shipyards Group
+        location: Gor., Netherlands
+        url: https://www.damen.com/
+        title: RD&I Intern, FastPhysics
+        start_date: 2026-06
+        end_date: 2026-08
+        description: Internship in the RD&I department on the FastPhysics project. Assignment titled Geometric Deep Learning for Accelerated High-Fidelity Ship Hull Simulations.
+        highlights:
+          - Geometric deep learning
+          - High-fidelity ship hull simulations
+
+      - company: University of Amsterdam
+        location: Ams, Netherlands
+        url: https://www.egavves.com/
+        title: MSc Thesis Researcher
+        start_date: 2025-09
+        end_date: 2026-06
+        description: MSc thesis with Prof. Efstratios Gavves and Riccardo Valperga, on robot learning.
+        highlights:
+          - Robot learning
+          - Vision-language-action models
+
+    Publications:
+      - title: "InfoCIR: Multimedia Analysis for Composed Image Retrieval"
+        publisher: IEEE PacificVis
+        url: https://arxiv.org/abs/2602.13402
+        release_date: 2026
+        summary: Visual analytics for composed image retrieval.
+
+    Skills:
+      - name: Research
+        level: Graduate
+        keywords: Computer Vision, Robot Learning, Generative Models, Multimodal Learning, Geometric Deep Learning
+
+    Languages:
+      - language: Greek
+        fluency: Native
+      - language: English
+        fluency: Fluent
